@@ -1,1 +1,43 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+h1,h2{
+	text-align:center;
+}
+li{
+		list-style-type: none;
+	text-align:left
+}
+a{
+	text-decoration-line: none;
+	color:black;
+}
+.list1{
+	background-color:white;
+	height:150px;
+	border:2px solid black;
+	margin:20px;
+	border-radius:5px;
+	
+}
+.list2{
+	background-color:rgb(255, 255, 255);;
+	height:400px;
+	border:2px solid black;
+	margin:20px;
+	border-radius:5px;
+	
+}
+.player_one{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	padding-top:30px;
+}
+.player_two{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+}
