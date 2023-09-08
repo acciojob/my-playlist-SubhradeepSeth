@@ -23,7 +23,7 @@ a{
 }
 .list2{
 	background-color:rgb(255, 255, 255);;
-	height:400px;
+	padding-bottom:40px;
 	border:2px solid black;
 	margin:20px;
 	border-radius:5px;
@@ -33,11 +33,12 @@ a{
 	display:flex;
 	justify-content:center;
 	align-items:center;
-	padding-top:30px;
+	padding:30px;
+	background-color: rgb(255, 255, 255);
 }
 .player_two{
 	display:flex;
 	justify-content:center;
 	align-items:center;
-	
+	background-color: rgb(255, 255, 255);
 }
